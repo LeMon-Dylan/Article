@@ -16,7 +16,8 @@
 
 
 
-![image-20220816114856547](C:\Users\Dylan\Desktop\VPN翻墙机场推荐.assets\image-20220816114856547.png)
+![image](https://user-images.githubusercontent.com/61132996/184796195-6d5202d6-4bc6-4f21-bf09-751c56df5d4d.png)
+
 
 
 
@@ -56,7 +57,7 @@
 
 支持多种订阅
 
-![image-20220816120652079](C:\Users\Dylan\Desktop\VPN翻墙机场推荐.assets\image-20220816120652079.png)
+![image](https://user-images.githubusercontent.com/61132996/184796227-59b4739d-7eb5-4664-8261-1cda41151c68.png)
 
 
 
@@ -64,7 +65,7 @@
 
 官网附带多个客户端配置教程
 
-![image-20220816120842003](C:\Users\Dylan\Desktop\VPN翻墙机场推荐.assets\image-20220816120842003.png)
+![image](https://user-images.githubusercontent.com/61132996/184796238-67683bb9-7ce0-4a3f-85f7-64fed4fd4fc6.png)
 
 
 
